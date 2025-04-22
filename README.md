@@ -1,2 +1,5 @@
 # creative-system-150
-A simple tool that handles scripts.
+
+This is a sample project written in **Go**.
+
+Generated automatically.
